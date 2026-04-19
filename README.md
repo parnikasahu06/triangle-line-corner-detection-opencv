@@ -30,14 +30,14 @@ To detect lines and corners of an equilateral triangle using OpenCV and analyze 
 ## Results
 
 ### Planar Surface
-![Planar Normal](samples/planar_normal_detection.png)
+![Planar Normal](planar_normal_detection.png)
 
-![Planar Lighting](samples/planar_variable_lighting.png)
+![Planar Lighting](planar_variable_lighting.png)
 
-![Planar Low Light](samples/planar_low_light_detection.png)
+![Planar Low Light](planar_low_light_detection.png)
 
 ### Non-Planar Surface
-![Non Planar](samples/non_planar_triangle_detection.png)
+![Non Planar](non_planar_triangle_detection.png)
 
 ## Observations
 
